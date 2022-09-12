@@ -5,7 +5,7 @@
 
 🌱 Wanna learn some **Arduino (embedded systems) & Rust**
 
-🤝 Looking to help with **maintaining open source projects along commercial ones**
+🤝 Looking to help with **maintaining open source projects along commercial ones**, give me a shout on [Twitter](https://twitter.com/D8vjork) or [Linkedin](https://www.linkedin.com/in/d8vjork/)
 
 📝 I regularly write articles on [my blog](https://blog.d8vjork.com), [open southeners' blog](https://opensoutheners.com) or [my company's (Skore)](https://skorelabs.medium.com)
 
