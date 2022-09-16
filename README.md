@@ -3,7 +3,7 @@
 
 🔭 I’m currently working founding an open-source focused company called [Open Southeners](https://github.com/open-southeners) (yes, it does commercial work, but all reusing open source of course)
 
-🌱 Wanna learn some **Arduino (embedded systems) & Rust**
+🌱 Wanna learn some **Arduino (embedded systems), Swift & Rust**
 
 🤝 Looking to help with **maintaining open source projects along commercial ones**, give me a shout on [Twitter](https://twitter.com/D8vjork) or [Linkedin](https://www.linkedin.com/in/d8vjork/)
 
